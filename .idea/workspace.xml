@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c4676bb-f449-40b0-8ab7-52532405378b" name="Changes" comment="daje roma daje halma">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RetrieveGitCommit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RetrieveGitCommit.java" afterDir="false" />
+    <list default="true" id="5c4676bb-f449-40b0-8ab7-52532405378b" name="Changes" comment=" 2">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,6 +143,7 @@
     <MESSAGE value="prova 1" />
     <MESSAGE value="daje roma daje" />
     <MESSAGE value="daje roma daje halma" />
-    <option name="LAST_COMMIT_MESSAGE" value="daje roma daje halma" />
+    <MESSAGE value=" 2" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 2" />
   </component>
 </project>

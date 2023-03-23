@@ -73,12 +73,12 @@ public class RetrieveGitCommit {
 
         // Retrieve commit from Windows shell
         if(getOsType().startsWith("Windows")){
-            retrieveIdThroughKeyWordLOCAL(keyword, path, 0);
+            retrieveIdThroughKeyWordLOCAL(keyword, path, 1);
         }
 
         // Retrieve commit from Linux based OS shell
         else{
-            retrieveIdThroughKeyWordLOCAL(keyword, path, 1);
+            retrieveIdThroughKeyWordLOCAL(keyword, path, 0);
         }
 
     }
