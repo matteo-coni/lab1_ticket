@@ -67,7 +67,8 @@ public class RetrieveGitCommit {
 
 
     public static void main(String[] args){
-        String path="C:\\Users\\Marco\\GitHub\\lab1_ticket";
+        String path=System.getProperty("user.dir");
+
         String keyword="roma";
 
         // Retrieve commit from Windows shell

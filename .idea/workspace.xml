@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c4676bb-f449-40b0-8ab7-52532405378b" name="Changes" comment="daje roma daje halma">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RetrieveGitCommit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RetrieveGitCommit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RetrieveGitCommit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +92,8 @@
       <option name="presentableId" value="Default" />
       <updated>1679497580600</updated>
       <workItem from="1679497582271" duration="1940000" />
-      <workItem from="1679506551197" duration="1739000" />
+      <workItem from="1679506551197" duration="2037000" />
+      <workItem from="1679568646681" duration="90000" />
     </task>
     <task id="LOCAL-00001" summary="prova 1">
       <created>1679497935609</created>
